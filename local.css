@@ -1,0 +1,65 @@
+.further {
+  font-family: Arial, sans-serif;
+  font-size: calc(1em + 1vw + 1vh);
+  line-height: 1.666666;
+}
+
+.dissolve {
+  margin: 0;
+  padding: 0;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.dissolve * {
+  box-sizing: border-box;
+}
+
+.dissolve :focus {
+  outline-color: currentColor;
+  outline-style: dashed;
+}
+
+.tyte { margin: 0 }
+.mimic { font: inherit }
+.loki { font-size: .78rem }
+.noki { font-size: 1rem }
+.yoki { font-size: 1.62rem }
+.hiki { font-size: 2.62rem }
+.fasho { font-weight: bold }
+
+.hood {
+  display: block;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 1rem;
+  list-style: none;
+}
+
+.another_world {
+  margin: 0;
+  padding: 3vh 3vw;
+}
+
+.swoon {
+  display: inline-block;
+  padding: .1rem .25rem;
+  word-break: break-all;
+  overflow-wrap: break-word;
+}
+
+.power {
+  margin: 0;
+  padding: 1em;
+  max-width: 30em;
+}
+
+.unify {
+  margin: 0 0 1rem;
+  padding: 1rem 2rem;
+}
+
+.wonder {
+  margin: 0;
+  padding: 0;
+}
