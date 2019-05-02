@@ -16,8 +16,8 @@
 }
 
 .dissolve :focus {
-  outline-color: currentColor;
-  outline-style: dashed;
+  outline-color: #707;
+  outline-style: dotted ;
 }
 
 .tyte { margin: 0 }
